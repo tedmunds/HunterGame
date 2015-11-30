@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<GameState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PlayerState name="DefaultName" xPos="89.99883" yPos="8.918283">
+    <health>1000</health>
+    <maxHealth>1000</maxHealth>
+  </PlayerState>
+  <TimeOfDay>60.05278</TimeOfDay>
+</GameState>

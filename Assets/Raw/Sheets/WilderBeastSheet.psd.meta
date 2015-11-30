@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 9be32ef574b18c5408da0ef992364fa7
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: WilderBeastSheet_0
+    21300002: WilderBeastSheet_1
+    21300004: WilderBeastSheet_2
+    21300006: WilderBeastSheet_3
+    21300008: WilderBeastSheet_4
+    21300010: WilderBeastSheet_5
+    21300012: WilderBeastSheet_6
+    21300014: WilderBeastSheet_idle1
+    21300016: WilderBeastSheet_idle2
+    21300018: WilderBeastSheet_idle3
+    21300020: Spear
+    21300022: Spear_shadow
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: WilderBeastSheet_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 38
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WilderBeastSheet_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 38
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WilderBeastSheet_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 38
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WilderBeastSheet_3
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 38
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WilderBeastSheet_4
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 38
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WilderBeastSheet_5
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 38
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WilderBeastSheet_6
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 38
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WilderBeastSheet_idle1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 4
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WilderBeastSheet_idle2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 4
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WilderBeastSheet_idle3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 4
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Spear
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 23
+        width: 26
+        height: 3
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Spear_shadow
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 19
+        width: 26
+        height: 1
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
